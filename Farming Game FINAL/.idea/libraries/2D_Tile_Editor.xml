@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="2D Tile Editor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Resources/Blue Boy Adventure/2D Tile Editor/Simple2DTileEditor1.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Resources/Blue Boy Adventure/2D Tile Editor/Simple 2D Tile Editor 1.01 (EXE version).zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
